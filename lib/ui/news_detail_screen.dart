@@ -66,7 +66,7 @@ class _NewsDetailScreenState extends State<NewsDetailScreen> {
             child: SizedBox(
               height: 34.h,
               width: 50.h,
-              child: Icon(Icons.share, color: clrTheme,),
+              child: Icon(Icons.share, color: clrTheme, size: 20.h),
             ),
           )
         ],
